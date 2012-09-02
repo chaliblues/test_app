@@ -1,0 +1,1 @@
+This is a test application to test my new rails 3 installation
